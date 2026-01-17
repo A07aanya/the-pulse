@@ -72,3 +72,5 @@ MongoDB Connection: Ensure your IP address is whitelisted in MongoDB Atlas.
 Security & Secrets
 No Secrets: This repository contains no hardcoded API keys, database credentials, or private tokens.
 Gitignore: A .gitignore file is active to prevent .env and node_modules from being committed.
+
+IEEE-Ahemdabad University-SB-Official was a huge contributor for this project
